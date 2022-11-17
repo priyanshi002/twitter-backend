@@ -1,0 +1,6 @@
+Flask
+flask_restx==0.5.1
+flask-cors
+nltk
+tweepy
+textblob
